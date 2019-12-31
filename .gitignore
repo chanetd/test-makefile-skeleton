@@ -1,2 +1,3 @@
 # locally installed build prerequisites
 .bin/
+vendor/
