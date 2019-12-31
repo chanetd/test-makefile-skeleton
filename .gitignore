@@ -1,3 +1,4 @@
 # locally installed build prerequisites
 .bin/
 vendor/
+test-makefile-skeleton
